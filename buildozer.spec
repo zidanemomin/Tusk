@@ -26,11 +26,10 @@ fullscreen = 0
 # Android
 android.api = 35
 android.minapi = 24
-android.ndk = 27c
+android.ndk = 28c
 android.archs = arm64-v8a
 android.accept_sdk_license = True
 android.permissions = MANAGE_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_MEDIA_AUDIO
-
 
 # (str) Icon
 # icon.filename = %(source.dir)s/icon.png
